@@ -1,0 +1,126 @@
+2025-11-13 12:26:43 INFO  TC_003_LoginDDT:17 -
+			*****	TC_002_LoginTest	*****
+2025-11-13 12:26:46 INFO  TC_003_LoginDDT:17 -
+			*****	TC_002_LoginTest	*****
+2025-11-13 12:26:48 INFO  TC_003_LoginDDT:17 -
+			*****	TC_002_LoginTest	*****
+2025-11-13 12:26:51 INFO  TC_003_LoginDDT:17 -
+			*****	TC_002_LoginTest	*****
+2025-11-13 12:27:02 INFO  TC_003_LoginDDT:17 -
+			*****	TC_002_LoginTest	*****
+2025-11-13 12:34:05 INFO  TC_002_LoginTest:16 -
+			*****	TC_002_LoginTest	*****
+2025-11-13 12:34:05 INFO  TC_002_LoginTest:22 -
+			Clicked on My Account link on the Home Page
+2025-11-13 12:34:05 INFO  TC_002_LoginTest:26 -
+			Providing login details
+2025-11-13 12:34:06 INFO  TC_002_LoginTest:30 -
+			Clicked on Login button
+2025-11-13 12:34:07 INFO  TC_002_LoginTest:36 -
+			Login successful
+2025-11-13 12:34:07 INFO  TC_002_LoginTest:42 -
+			Finished TC_002_LoginTest
+2025-11-13 12:35:27 INFO  TC_001_AccountRegistrationTest:15 -
+			*****	Starting TC_001_AccountRegistrationTest	*****
+2025-11-13 12:35:27 INFO  TC_001_AccountRegistrationTest:22 -
+			Clicked on MyAccount Link...
+2025-11-13 12:35:28 INFO  TC_001_AccountRegistrationTest:25 -
+			Clicked on Register Link...
+2025-11-13 12:35:28 INFO  TC_001_AccountRegistrationTest:29 -
+			Providing customer details...
+2025-11-13 12:35:28 INFO  TC_001_AccountRegistrationTest:43 -
+			Validating expected message...
+2025-11-13 12:35:29 INFO  TC_001_AccountRegistrationTest:47 -
+			Test passeed
+2025-11-13 12:35:29 INFO  TC_001_AccountRegistrationTest:54 -
+			*****	Finished TC_001_AccountRegistrationTest	*****
+2025-11-13 12:35:33 INFO  TC_002_LoginTest:16 -
+			*****	TC_002_LoginTest	*****
+2025-11-13 12:35:34 INFO  TC_002_LoginTest:22 -
+			Clicked on My Account link on the Home Page
+2025-11-13 12:35:34 INFO  TC_002_LoginTest:26 -
+			Providing login details
+2025-11-13 12:35:34 INFO  TC_002_LoginTest:30 -
+			Clicked on Login button
+2025-11-13 12:35:36 INFO  TC_002_LoginTest:36 -
+			Login successful
+2025-11-13 12:35:36 INFO  TC_002_LoginTest:42 -
+			Finished TC_002_LoginTest
+2025-11-13 12:36:43 INFO  TC_001_AccountRegistrationTest:15 -
+			*****	Starting TC_001_AccountRegistrationTest	*****
+2025-11-13 12:36:44 INFO  TC_001_AccountRegistrationTest:22 -
+			Clicked on MyAccount Link...
+2025-11-13 12:36:44 INFO  TC_001_AccountRegistrationTest:25 -
+			Clicked on Register Link...
+2025-11-13 12:36:44 INFO  TC_001_AccountRegistrationTest:29 -
+			Providing customer details...
+2025-11-13 12:36:45 INFO  TC_001_AccountRegistrationTest:43 -
+			Validating expected message...
+2025-11-13 12:36:46 INFO  TC_001_AccountRegistrationTest:47 -
+			Test passeed
+2025-11-13 12:36:46 INFO  TC_001_AccountRegistrationTest:54 -
+			*****	Finished TC_001_AccountRegistrationTest	*****
+2025-11-13 12:36:51 INFO  TC_002_LoginTest:16 -
+			*****	TC_002_LoginTest	*****
+2025-11-13 12:36:51 INFO  TC_002_LoginTest:22 -
+			Clicked on My Account link on the Home Page
+2025-11-13 12:36:51 INFO  TC_002_LoginTest:26 -
+			Providing login details
+2025-11-13 12:36:52 INFO  TC_002_LoginTest:30 -
+			Clicked on Login button
+2025-11-13 12:36:53 INFO  TC_002_LoginTest:36 -
+			Login successful
+2025-11-13 12:36:53 INFO  TC_002_LoginTest:42 -
+			Finished TC_002_LoginTest
+2025-11-13 12:42:20 INFO  TC_001_AccountRegistrationTest:15 -
+			*****	Starting TC_001_AccountRegistrationTest	*****
+2025-11-13 12:42:20 INFO  TC_001_AccountRegistrationTest:22 -
+			Clicked on MyAccount Link...
+2025-11-13 12:42:21 INFO  TC_001_AccountRegistrationTest:25 -
+			Clicked on Register Link...
+2025-11-13 12:42:21 INFO  TC_001_AccountRegistrationTest:29 -
+			Providing customer details...
+2025-11-13 12:42:23 INFO  TC_001_AccountRegistrationTest:43 -
+			Validating expected message...
+2025-11-13 12:42:23 INFO  TC_001_AccountRegistrationTest:47 -
+			Test passeed
+2025-11-13 12:42:23 INFO  TC_001_AccountRegistrationTest:54 -
+			*****	Finished TC_001_AccountRegistrationTest	*****
+2025-11-13 12:42:27 INFO  TC_002_LoginTest:16 -
+			*****	TC_002_LoginTest	*****
+2025-11-13 12:42:27 INFO  TC_002_LoginTest:22 -
+			Clicked on My Account link on the Home Page
+2025-11-13 12:42:27 INFO  TC_002_LoginTest:26 -
+			Providing login details
+2025-11-13 12:42:28 INFO  TC_002_LoginTest:30 -
+			Clicked on Login button
+2025-11-13 12:42:29 INFO  TC_002_LoginTest:36 -
+			Login successful
+2025-11-13 12:42:29 INFO  TC_002_LoginTest:42 -
+			Finished TC_002_LoginTest
+2025-11-13 12:43:56 INFO  TC_001_AccountRegistrationTest:15 -
+			*****	Starting TC_001_AccountRegistrationTest	*****
+2025-11-13 12:43:56 INFO  TC_001_AccountRegistrationTest:22 -
+			Clicked on MyAccount Link...
+2025-11-13 12:43:57 INFO  TC_001_AccountRegistrationTest:25 -
+			Clicked on Register Link...
+2025-11-13 12:43:57 INFO  TC_001_AccountRegistrationTest:29 -
+			Providing customer details...
+2025-11-13 12:43:59 INFO  TC_001_AccountRegistrationTest:43 -
+			Validating expected message...
+2025-11-13 12:43:59 INFO  TC_001_AccountRegistrationTest:47 -
+			Test passeed
+2025-11-13 12:43:59 INFO  TC_001_AccountRegistrationTest:54 -
+			*****	Finished TC_001_AccountRegistrationTest	*****
+2025-11-13 12:44:03 INFO  TC_002_LoginTest:16 -
+			*****	TC_002_LoginTest	*****
+2025-11-13 12:44:03 INFO  TC_002_LoginTest:22 -
+			Clicked on My Account link on the Home Page
+2025-11-13 12:44:04 INFO  TC_002_LoginTest:26 -
+			Providing login details
+2025-11-13 12:44:05 INFO  TC_002_LoginTest:30 -
+			Clicked on Login button
+2025-11-13 12:44:05 INFO  TC_002_LoginTest:36 -
+			Login successful
+2025-11-13 12:44:05 INFO  TC_002_LoginTest:42 -
+			Finished TC_002_LoginTest
